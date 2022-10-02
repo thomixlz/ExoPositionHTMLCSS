@@ -1,0 +1,24 @@
+body{
+    height: 50000px;
+    background: url("/assets/images/textureCircle.png");
+}
+
+a {
+    font-size: 20px;
+    color: white;
+}
+
+.stickyMenu {
+    width: 210px;
+    height: 100px; 
+    position: sticky;
+    top: 5%;
+    background-color: rgba(0, 0, 0, 0.121);
+    z-index: 99;
+}
+
+.retour {
+    font-size: 25px;
+    color: black;
+
+}

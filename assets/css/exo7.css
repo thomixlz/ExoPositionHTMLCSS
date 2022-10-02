@@ -1,0 +1,65 @@
+#exercicePos7 {
+    display: none;
+}
+
+/***************/
+
+#cubeBlanc7 {
+    background-color: white;
+    width: 500px;
+    height: 455px;
+    padding: 30px;
+    border: solid 0.5px black;
+    margin-left: 430px; 
+}
+
+#cubeGreen7 {
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    float: left;
+    border: solid 0.5px black;
+    position: relative;
+}
+
+#cubeBlue7 {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    float: left;
+    border: solid 0.5px black;
+    position: relative;
+}
+
+#cubeOrange7 {
+    background-color: orange;
+    width: 500px;
+    height: 150px;
+    border: solid 0.5px black;
+    position: relative;
+    float: left;
+}
+
+#cubeYellow7 {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border: solid 0.5px black;
+    position: relative;
+    float: right;
+}
+
+#cubeGris7 {
+    background-color: grey;
+    width: 150px;
+    height: 150px;
+    border: solid 0.5px black;
+    position: relative;
+    float: right;
+}
+
+
+
+
+
+

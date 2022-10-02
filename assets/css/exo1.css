@@ -1,0 +1,33 @@
+#exercicePos1 {
+    display: none;
+}
+
+/***************/
+
+#cubeGreen {
+    background-color: green;
+    width: 500px;
+    height: 200px;
+    border: solid 0.5px black;
+    margin-left: 420px;
+}
+
+#cubeBlue {
+    background-color: blue;
+    width: 370px;
+    height: 130px;
+    margin: auto;
+    position: relative;
+    top: 17%;
+    border: solid 0.5px black;
+}
+
+#cubeOrange{
+    background-color: orange;
+    width: 300px;
+    height: 80px;
+    margin: auto;
+    position: relative;
+    top: 20%;
+    border: solid 0.5px black;
+}

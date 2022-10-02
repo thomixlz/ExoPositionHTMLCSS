@@ -1,0 +1,134 @@
+body {
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+    background: url("/assets/images/textureCircle.png");
+    background-size: cover;
+}
+
+/*//////////////////*/
+/* TOP SITE / HEADER */
+/*//////////////////*/ 
+
+#rectangleTop1 {
+    width: 100%;
+    height: 40px;
+    background: url("/assets/images/textureCircle2.png");
+    background-position: 30%;
+}
+
+#logoMNS {
+    width: 80px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+#rectangleTop2 {
+    position: absolute;
+    background: url("/assets/images/caroussel1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 413px;
+    border-bottom: solid 10px #E86868;
+}
+
+#monTitre {
+   width: 40%;
+   position: absolute;
+   left: 580px;
+   top: 115px;
+}
+
+/*//////////////////*/
+/* ZONE DES BOUTONS */ 
+/*//////////////////*/
+
+#zoneDesBoutons {
+    /* background-color: red; */
+    margin-top: 35px;
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 463px;
+}
+
+#ligne1 {
+    /* background-color: green; */
+    height: 100px;
+    margin: 25px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+#ligne2 {
+    /* background-color: blue; */
+    height: 100px;
+    margin-top: 50px;
+    margin: 25px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+#exo1, #exo2, #exo3, #exo4, #exo5, #exo6, #exo7, #exo8{
+    width: 300px;
+    height: 100px;
+    margin-left: 112px;
+    background: url("/assets/images/textureCircle2.png");
+    background-position: 1%;
+    border: solid 7px #ffffffe7;
+}
+
+/*//////////////////*/
+/* ZONE D'AFFICHAGE */ 
+/*//////////////////*/
+
+
+#titreAffichage {
+    position: absolute;
+    top: 800px;
+    margin-left: 780px;
+    z-index: 99;
+
+}
+#rectangleAffichage {
+    height: 800px;
+    width: 1500px;
+    background-color: #E86868;
+    border: solid 7px #ffffffe7;
+    position: relative;
+    top: 800px;
+    margin: auto;
+}
+
+#zoneAffichage {
+    height: 750px;
+    width: 1480px;
+    margin: 50px;
+    margin-top: 150px;
+    position: relative;
+    /* background-color: green; */
+}
+
+/*//////////////////*/
+/* FOOTER */ 
+/*//////////////////*/
+
+#copyright {
+    position: relative;
+    top: 800px;
+    margin-left: 570px;
+    color: rgba(0, 0, 0, 0.482);
+}
+
+a {
+    font-size: 30px;
+    margin-left: 420px;
+    color: white;
+}
+
+#exercicePos8 {
+    color: white;
+    font-size: 30px;
+}

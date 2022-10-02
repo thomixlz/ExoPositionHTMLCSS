@@ -1,0 +1,45 @@
+#exercicePos4 {
+    display: none;
+}
+
+/***************/
+
+#cubeBlueSky4 {
+    background-color: rgb(180, 180, 235);
+    width: 500px;
+    height: 50px;
+    border: solid 0.5px black;
+    margin-left: 440px;
+    margin-bottom: 40px;
+}
+
+#cubeGreen4 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border: solid 0.5px black;
+    left: 570px;
+}
+
+#cubeBlue4 {
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    border: solid 0.5px black;
+    margin: auto;
+    margin-top: 18px;
+
+}
+
+#cubeOrange4 {
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+    left: 700px;
+    top: 150px;
+    position: relative;
+    border: solid 0.5px black;
+}
+

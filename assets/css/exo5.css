@@ -1,0 +1,57 @@
+#exercicePos5 {
+    display: none;
+}
+
+/***************/
+
+#cubeBlueSky5 {
+    background-color: rgb(180, 180, 235);
+    width: 430px;
+    height: 430px;
+    padding: 30px;
+    border: solid 0.5px black;
+    margin-left: 430px; 
+}
+
+#cubeGreen5 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    float: inline-start;
+    position: absolute;
+    box-sizing: border-box;
+    border: solid black 3px;
+}
+
+#cubeBlue5 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    float: right;
+    box-sizing: border-box;
+    border: solid black 3px;
+}
+
+#cubeOrange5 {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    top: 230px;
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    border: solid black 3px;
+}
+
+#cubeYellow5 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 30px;
+    float: right;
+    box-sizing: border-box;
+    border: solid black 3px;
+}
+
+
